@@ -206,11 +206,9 @@ mka vendorbootimage -j$(nproc)
 
 | Role | Name |
 |---|---|
-| Device Tree Base | @notpiyushbro |
 | Device Tree Base | @HuTao77-Studio |
-| Developer | @suchit_7x |
-| Contributions | @imnotaino (sairb1) |
-| Tester | @Zuhaan |
+| Developer | @imnotaino (sairb1 |
+
 
 ---
 
